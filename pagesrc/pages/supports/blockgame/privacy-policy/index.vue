@@ -15,6 +15,7 @@
         <li>本アプリの起動回数・使用率</li>
         <li>本アプリのクラッシュ数</li>
       </ul>
+      <nuxt-link to="./" exact>お問い合わせはこちら</nuxt-link>
     </div>
   </div>
 </template>
